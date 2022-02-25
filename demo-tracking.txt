@@ -1,1 +1,4 @@
 Je suis un fichier qui sera versioné via Git
+
+
+Ceci est une nouvelle modification
